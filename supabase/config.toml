@@ -1,0 +1,16 @@
+project_id = "yualfngsnhkvesfsxwpb"
+
+[functions.generate-signed-url]
+verify_jwt = false
+
+[functions.upload-content]
+verify_jwt = false
+
+[functions.generate-share-link]
+verify_jwt = false
+
+[functions.access-shared-content]
+verify_jwt = false
+
+[functions.owner-signed-url]
+verify_jwt = false
