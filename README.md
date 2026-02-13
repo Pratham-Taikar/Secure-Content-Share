@@ -6,7 +6,7 @@ Safe-Stream-Share is an industry-grade secure content delivery and management pl
 
 Link to website - [safe-stream-share](secure-content-share.vercel.app)
     
-Youtube Demo - [youtube-demo](https://youtube.com)
+Youtube Demo - [youtube-demo](https://www.youtube.com/watch?v=fP6_qufVquY)
 
 ## 🏗️ System Architecture
 
