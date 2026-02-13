@@ -129,4 +129,4 @@ npm run dev
 - **JWT Validation**: All Edge Functions validate the user's Bearer token before processing.
 - **Audit Logs**: Immutable records of every access attempt, successful or denied.
 
-# Made by Pratham
+# Made by Team AntiMatter - Pratham, Abhay, Pranav
