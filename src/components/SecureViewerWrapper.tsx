@@ -150,7 +150,7 @@ export function SecureViewerWrapper({ children, contentId, isOwnerAccess = false
         aria-hidden="true"
       >
         <div
-          className="absolute text-foreground/10 text-sm font-mono whitespace-nowrap transition-all duration-1000 ease-in-out"
+          className="absolute text-gray-500 text-sm font-mono whitespace-nowrap transition-all duration-1000 ease-in-out"
           style={{
             top: `${watermarkPos.top}%`,
             left: `${watermarkPos.left}%`,
