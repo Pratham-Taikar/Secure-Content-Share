@@ -4,6 +4,10 @@ Safe-Stream-Share is an industry-grade secure content delivery and management pl
 
 ---
 
+Link to website - [safe-stream-share](https://secure-content-share.vercel.app/login)
+    
+Youtube Demo - [youtube-demo](https://www.youtube.com/watch?v=fP6_qufVquY)
+
 ## 🏗️ System Architecture
 
 ### **High-Level Flow**
@@ -124,3 +128,5 @@ npm run dev
 - **Storage Policies**: Restricts file access at the storage level using `auth.uid()`.
 - **JWT Validation**: All Edge Functions validate the user's Bearer token before processing.
 - **Audit Logs**: Immutable records of every access attempt, successful or denied.
+
+# Made by Team AntiMatter - Pratham, Abhay, Pranav
